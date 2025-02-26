@@ -1,7 +1,7 @@
-## PyTorch学习进度
+## 一、PyTorch学习进度
 1. B站课程：PyTorch深度学习快速入门教程（绝对通俗易懂！）【小土堆】（√）
 
-## 资源链接
+## 二、资源链接
 ### 1. PyTorch深度学习快速入门教程（绝对通俗易懂！）【小土堆】
 [PyTorch深度学习快速入门教程（绝对通俗易懂！）【小土堆】](https://www.bilibili.com/video/BV1hE411t7RN/?share_source=copy_web&vd_source=29abae58ff5c103cebd1c23cb5fc65b2)
 
